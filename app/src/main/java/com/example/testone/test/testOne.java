@@ -1,5 +1,6 @@
 package com.example.testone.test;
 
 public class testOne {
-    public String number;
+    private int num;
+    public int number;
 }
